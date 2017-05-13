@@ -1,0 +1,7 @@
+import cmpe281.teamstarbucks.Order
+
+model {
+	Order order
+}
+
+json tmpl.order(order)
